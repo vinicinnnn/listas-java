@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exercicio21/exercicio21.iml" filepath="$PROJECT_DIR$/exercicio21/exercicio21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio22/exercicio22.iml" filepath="$PROJECT_DIR$/exercicio22/exercicio22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio23/exercicio23.iml" filepath="$PROJECT_DIR$/exercicio23/exercicio23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio24/exercicio24.iml" filepath="$PROJECT_DIR$/exercicio24/exercicio24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio25/exercicio25.iml" filepath="$PROJECT_DIR$/exercicio25/exercicio25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio26/exercicio26.iml" filepath="$PROJECT_DIR$/exercicio26/exercicio26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio27/exercicio27.iml" filepath="$PROJECT_DIR$/exercicio27/exercicio27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio28/exercicio28.iml" filepath="$PROJECT_DIR$/exercicio28/exercicio28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio29/exercicio29.iml" filepath="$PROJECT_DIR$/exercicio29/exercicio29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio30/exercicio30.iml" filepath="$PROJECT_DIR$/exercicio30/exercicio30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio31/exercicio31.iml" filepath="$PROJECT_DIR$/exercicio31/exercicio31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio32/exercicio32.iml" filepath="$PROJECT_DIR$/exercicio32/exercicio32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio33/exercicio33.iml" filepath="$PROJECT_DIR$/exercicio33/exercicio33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio34/exercicio34.iml" filepath="$PROJECT_DIR$/exercicio34/exercicio34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio35/exercicio35.iml" filepath="$PROJECT_DIR$/exercicio35/exercicio35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista2.iml" filepath="$PROJECT_DIR$/lista2.iml" />
+    </modules>
+  </component>
+</project>
