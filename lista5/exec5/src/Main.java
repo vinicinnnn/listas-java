@@ -15,13 +15,12 @@ public class Main {
             }
         }
 
-        return -1; // Retorna -1 se o elemento não for encontrado
+        return -1; 
     }
 
     public static void main(String[] args) {
-        int[] array = {1, 3, 5, 7, 9, 11, 13, 15}; // Exemplo de array ordenado
-        int elemento = 7; // Elemento a ser buscado
-
+        int[] array = {1, 3, 5, 7, 9, 11, 13, 15};
+        int elemento = 7;
         int posicao = buscaBinaria(array, elemento);
 
         if (posicao != -1) {
